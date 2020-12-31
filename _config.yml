@@ -2,3 +2,5 @@ title: Suraj Suresh
 logo: "/Images/Logo.jpg?raw=true"
 description: "Portfolio"
 Linkedin: # "machineteacher"
+
+theme: jekyll-theme-minimal
