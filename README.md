@@ -1,5 +1,5 @@
 ## Hello and thank you for visiting my webpage. This page explains the steps I have taken towards being a data scientist. I began this journey in 2019 and since then I'm extracting knowledge from multiple platforms eg courses, books, podcasts,twitter,youtube etc. 
-## My passion for data science come from my love for technology and I'm trying my best to learn as much as I can with the time provided. Any feedback with respect to my projects is accepted and would love to learn your point of view. 
+## My passion for data science comes from my love for technology and I'm trying my best to learn as much as I can with the time provided. Any feedback with respect to my projects is accepted and would love to learn your point of view. 
 
 # My Data Science Journey
 # [Project 1: TV, halftime shows, and the Big Game](https://github.com/Suraj-MachineTeacher/Project-1-Data-Visualization/blob/master/Data%20Visualization%20Super%20Bowl%20Performance.ipynb)
