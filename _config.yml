@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
+  <button onclick="window.location.href="https://www.linkedin.com/in/machineteacher/">View My LinkedIn Profile</button>
   <a href="https://www.linkedin.com/in/machineteacher/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
