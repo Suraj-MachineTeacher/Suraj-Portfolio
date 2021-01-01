@@ -2,9 +2,8 @@
 title: Suraj Suresh 
 logo: "/Images/images.PNG?raw=true"
 description: <br> <br> 
-<a href="https://www.linkedin.com/in/machineteacher/" class="button">LinkedIn</a></br>
-
-<a href="https://github.com/Suraj-MachineTeacher" class="button">GitHub</a></br>
+             <a href="https://www.linkedin.com/in/machineteacher/" class="button">LinkedIn</a></br>
+             <a href="https://github.com/Suraj-MachineTeacher" class="button">GitHub</a></br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-59007770-1 # your Google Analytics tracking ID here
