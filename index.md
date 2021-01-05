@@ -6,9 +6,8 @@ I'm experienced in the field of the data analysis and skilled in Data Wrangling,
 
 ---
 
-### Category Name 1 
+### CareerVillage.org Prediction Model
 
-[CareerVillage.org Prediction Model](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
