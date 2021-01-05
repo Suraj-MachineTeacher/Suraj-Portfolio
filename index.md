@@ -2,13 +2,13 @@
 I'm experienced in the field of the data analysis and skilled in Data Wrangling, Machine learning, Exploratory Analysis, Data Visaulization. <br> In 2019 I began this journey to pursue a career in Data Science, Since then I have extracted knowledge from various courses, Kaggle Notebooks, Podcasts and twitter etc. This page consists of all my notes and projects through out this journey. Feel Free to go through and provide feedback.
  <br><br>
 
-## Projects
+## Projects and Notes
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[CareerVillage.org Prediction Model](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
