@@ -7,7 +7,7 @@ I'm experienced in the field of the data analysis and skilled in Data Wrangling,
 ---
 
 ### CareerVillage.org Prediction Model
-Developed a Prediction model to predict relevant questions to the professionals who are most likely to answer
+Developed a prediction model to predict relevant questions to the professionals who are most likely to answer
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
