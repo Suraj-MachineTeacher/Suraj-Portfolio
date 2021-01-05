@@ -6,7 +6,7 @@ I'm experienced in the field of the data analysis and skilled in Data Wrangling,
 
 ---
 
-<a href="https://github.com/Suraj-MachineTeacher/Projects-and-Notes/blob/main/Projects/Career%20Village/Career%20Village%20Recommendation%20FINAL.ipynb" class="button"CareerVillage.org Prediction Model</a></br>
+<a href="https://github.com/Suraj-MachineTeacher/Projects-and-Notes/blob/main/Projects/Career%20Village/Career%20Village%20Recommendation%20FINAL.ipynb" class="button">CareerVillage.org Prediction Model</a></br>
 <br>Developed a prediction model to predict relevant questions to the professionals who are most likely to answer
 <br>Using Latent Dirichlet Allocation, Principal Component Analysis and Deep Learning
 
