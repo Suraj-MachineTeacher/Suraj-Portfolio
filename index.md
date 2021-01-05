@@ -10,8 +10,8 @@ I'm experienced in the field of the data analysis and skilled in Data Wrangling,
 <br>Developed a prediction model to predict relevant questions to the professionals who are most likely to answer
 <br>Using Latent Dirichlet Allocation, Principal Component Analysis and Deep Learning
 
-<img src="mages/questions.PNG?raw=true"/>
-<img src="mages/Answer.PNG?raw=true"/>
+<img src="images/questions.PNG?raw=true"/>
+<img src="images/Answer.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
