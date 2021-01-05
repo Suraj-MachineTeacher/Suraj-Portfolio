@@ -7,8 +7,8 @@ I'm experienced in the field of the data analysis and skilled in Data Wrangling,
 ---
 
 ### CareerVillage.org Prediction Model
-<br>Developed a prediction model to predict relevant questions to the professionals who are most likely to answer</br>
-<br>Using Latent Dirichlet Allocation, Principal Component Analysis and Deep Learning</br>
+<br>Developed a prediction model to predict relevant questions to the professionals who are most likely to answer
+<br>Using Latent Dirichlet Allocation, Principal Component Analysis and Deep Learning
 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
