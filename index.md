@@ -14,7 +14,7 @@ Using Latent Dirichlet Allocation, Principal Component Analysis and Deep Learnin
 <img src="images/Answer.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### <a href="https://github.com/Suraj-MachineTeacher/Projects-and-Notes/blob/main/Projects/Santander%20Customer%20Transaction%20Prediction/Santander%20Customer%20Transaction%20Prediction.ipynb" class="button">Santander Customer Prediction Model</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
