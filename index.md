@@ -19,8 +19,7 @@ Using Latent Dirichlet Allocation, Principal Component Analysis and Deep Learnin
 
 ---
 ### Live Premier League Dashboard
-<script src="https://public.tableau.com/views/PremierLeagueStats_16112946940540/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"></script>
-<div id="tableauViz"></div>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/PremierLeagueStats_16112946940540/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 ---
 
